@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@400;700&family=Montserrat:wght@200;500&display=swap');
+
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+
+tr, td,  th, table{
+border-width: 1px;
+border-style: solid;
+height: 25px;
+text-align: left;
+}
+td{
+    padding-left: 7px;
+    font-weight: 200, bold;
+}
+table {
+    border-collapse: collapse;
+  }
+
+  th{
+    color: blue;
+    width: 20%;
+    padding-left: 10px;
+    background-color: beige;
+  }
